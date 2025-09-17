@@ -10,5 +10,6 @@ Vy2202，无名之辈（暂时）。
   - Python/Pytorch/Numpy/Pandas
   - Rust
   - 算法
+  - AI Agent
 - 练习
   - LeetCode Hot100
